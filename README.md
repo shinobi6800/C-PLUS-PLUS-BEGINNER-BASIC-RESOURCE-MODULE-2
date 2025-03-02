@@ -9,6 +9,7 @@ using namespace std;
 
 ## 📌 2. Declaring Strings
 ```cpp
+//Remember beginers , because were using the namespace std we dont need to write the data type like std::string we can just say string :)
 string str1 = "Hello";  // 🌟 Using double quotes
 string str2("World");  // 🌟 Constructor method
 string str3{'C', '+', '+'};  // 🌟 Character list
